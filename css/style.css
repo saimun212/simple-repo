@@ -4,6 +4,9 @@
    text-align: center;
   font-size: 1.5rem;
 }
+h1{
+  color: rgb(255, 47, 47);
+}
 .paragaraph-title{
     background-color: #000000;
     font-size: 0.75rem;
@@ -25,10 +28,77 @@
     border-radius: 5px;
     color: rgb(128, 255, 0);
 }
-.paragaraph-4{
+    .paragaraph-4{
     background-color: #000000;
     font-size: 0.75rem;
     color: rgb(255, 0, 0);
     box-shadow: 1rem 1rem 1rem  ;
     border-radius: 5px;
 }
+.isSubscribed{
+border-color: rgb(19, 145, 255);
+font-size: 30px;
+background-color: rgb(203, 228, 195);
+color: rgb(202, 205, 204);
+border-radius: 5px;
+text-decoration: none;
+}
+
+.isSubscribed-2{
+  border-color: rgb(0, 229, 255);
+font-size: 30px;
+background-color: rgb(226, 165, 165);
+color: rgb(139, 133, 139);
+border-radius: 5px;
+text-decoration: none;
+}
+.isSubscribed-3{
+  border-color: rgb(0, 242, 255);
+font-size: 30px;
+background-color: rgb(100, 72, 100);
+color: rgb(128, 151, 145);
+border-radius: 5px;
+text-decoration: none;
+}
+.isSubscribed-4{
+  border-color: rgb(0, 208, 255);
+font-size: 30px;
+background-color: rgb(29, 17, 17);
+color: rgb(73, 116, 101);
+border-radius: 5px;
+text-decoration: none;
+}
+.isSubscribed-5{
+  border-color: rgb(0, 255, 229);
+font-size: 30px;
+background-color: rgb(109, 136, 100);
+color: rgb(128, 157, 148);
+border-radius: 5px;
+text-decoration: none;
+}
+.isSubscribed-6{
+  border-color: rgb(19, 145, 255);
+font-size: 30px;
+background-color: rgb(13, 46, 2);
+color: rgb(202, 205, 204);
+border-radius: 5px;
+text-decoration: none;
+}
+.isSubscribed-7{
+  border-color: rgb(0, 255, 255);
+font-size: 30px;
+background-color: rgb(103, 57, 116);
+color: rgb(202, 205, 204);
+border-radius: 5px;
+text-decoration: none;
+}
+.isSubscribed-8{
+  border-color: rgb(19, 145, 255);
+font-size: 30px;
+background-color: rgb(61, 222, 7);
+color: rgb(202, 205, 204);
+border-radius: 5px;
+text-decoration: none;
+}
+
+
